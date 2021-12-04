@@ -1,0 +1,11 @@
+.bold {
+    font-weight: bold;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
